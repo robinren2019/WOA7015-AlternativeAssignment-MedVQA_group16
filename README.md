@@ -1,8 +1,7 @@
 # Medical Visual Question Answering on VQA-RAD Dataset
 ## 🎓 Course: WOA7015 - Advance Machine Learning (Alternative Assessment)
 **Group 16**
-* **Ren Xingwang** (Matrix No: 25069113)
-* **Zhang Jiarui** (Matrix No: 24231977)
+
 
 ---
 
